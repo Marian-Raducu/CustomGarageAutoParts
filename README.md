@@ -36,4 +36,4 @@ The SQL script `mechanic_garage.sql` is used to set up the backend database for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/garage-project.git
+   git clone https://github.com/Marian-Raducu/garage-project.git
